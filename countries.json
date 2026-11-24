@@ -314,5 +314,46 @@
 		"WF": ["Wallis & Futuna"],
 		"XK": ["Republic of Kosovo"],
 		"ZA": ["RSA"]
+	},
+	"levels": {
+		"1": [
+			"BR", "CA", "CN", "DE", "ES", "FR", "GB", "IN", "IT", "JP",
+			"MX", "RU", "US"
+		],
+		"2": [
+			"AE", "AR", "AT", "AU", "BD", "BE", "BG", "BR", "CA", "CH",
+			"CL", "CN", "CO", "CU", "CZ", "DE", "DK", "DZ", "EG", "ES",
+			"ET", "FI", "FR", "GB", "GB-ENG", "GB-SCT", "GB-WLS", "GR", "HU", "ID",
+			"IE", "IL", "IN", "IQ", "IR", "IT", "JP", "KE", "KH", "KR",
+			"MA", "MX", "MY", "NG", "NL", "NO", "NP", "NZ", "PE", "PH",
+			"PK", "PL", "PT", "RO", "RU", "SA", "SE", "SG", "SK", "TH",
+			"TR", "TW", "UA", "US", "VN", "ZA"
+		],
+		"3": [
+			"AO", "AZ", "BA", "BF", "BI", "BJ", "BO", "BT", "BW", "BY",
+			"CD", "CF", "CG", "CI", "CM", "CV", "CY", "DJ", "DO", "EC",
+			"EE", "ER", "FJ", "FM", "GA", "GE", "GH", "GM", "GN", "GQ",
+			"GT", "GW", "GY", "HN", "HT", "JM", "JO", "KG", "KI", "KM",
+			"KW", "KZ", "LA", "LB", "LK", "LR", "LS", "LT", "LU", "LV",
+			"LY", "MD", "ME", "MG", "MK", "ML", "MM", "MN", "MR", "MU",
+			"MV", "MW", "MZ", "NA", "NE", "NI", "OM", "PA", "PG", "PR",
+			"PS", "PY", "QA", "RS", "RW", "SB", "SC", "SD", "SL", "SN",
+			"SO", "SR", "SS", "SV", "SY", "SZ", "TD", "TG", "TJ", "TL",
+			"TM", "TN", "TT", "TZ", "UG", "UY", "UZ", "VE", "XK", "YE",
+			"ZM", "ZW"
+		],
+		"4": [
+			"AF", "AL", "AM", "BH", "BN", "BS", "BZ", "CW", "GL", "HK",
+			"IS", "LI", "MC", "MT", "NA", "PF", "PW", "SM", "ST", "VA",
+			"VC", "WS"
+		],
+		"5": [
+			"AD", "AI", "AQ", "AS", "AW", "AX", "BB", "BL", "BM", "BQ",
+			"BV", "CC", "CK", "CX", "EH", "EU", "FK", "FO", "GB-NIR", "GF",
+			"GG", "GI", "GP", "GS", "GU", "HM", "IM", "IO", "JE", "KY",
+			"MF", "MH", "MO", "MP", "MQ", "MS", "NC", "NF", "NR", "NU",
+			"PM", "PN", "RE", "SH", "SJ", "SX", "TC", "TF", "TK", "TO",
+			"TV", "UM", "VG", "VI", "VU", "WF", "YT"
+		]
 	}
 }
